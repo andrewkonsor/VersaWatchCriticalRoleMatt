@@ -1,0 +1,26 @@
+{
+  "fitbit": {
+    "appUUID": "fdde3256-c1ca-42ce-9b57-c8f9a017673e",
+    "appType": "clockface",
+    "appDisplayName": "Critical Role",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "meson",
+      "gemini"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Critical Role"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.0"
+  }
+}

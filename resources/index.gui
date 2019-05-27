@@ -1,0 +1,8 @@
+<svg class="background">
+  <image href="rsz_1matt.jpg" />
+  <text id="myLabel" />
+  <text id="myMonth" />
+  <text id="myDay" />
+  <text id="myHR" />
+  <text id="mySteps" />
+</svg>
